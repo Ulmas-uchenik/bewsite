@@ -1,0 +1,2879 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+    font-family: Arial;
+}
+a {
+    text-decoration: none;
+}
+
+.fon1 {                        
+    background:#00021f;
+    width: 100%;
+    height: 110vh;
+}
+
+.div1 {
+    background: #fff;
+    width: 100%;
+    height: 60px;
+}
+
+
+
+.img-fon1 {
+    height: 200px;
+}
+
+.img1 {   
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 100px
+}
+
+.a1 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    bottom: 15px;
+    left: 50px;
+    transition: .3s;
+}
+
+.a2 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    bottom: 15px;
+    left: 70px ; 
+    transition: .3s;
+}
+
+.a3 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    bottom: 15px;
+    left: 90px; 
+    transition: .3s;
+}
+
+.a4 {
+    color: #000000;
+    font-size: 15px;
+    text-decoration: none;
+    position: relative;
+    bottom: 15px;
+    left: 110px;
+}
+
+.a1-1 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    top: 5px;
+    left: 50px;
+    transition: .3s;
+}
+
+.a2-2 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    top: 5px;
+    left: 70px ; 
+    transition: .3s;
+}
+
+.a3-3 {
+    color: currentColor;
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 20px;
+    border-right:  1.5px solid #4b4b4b;
+    position: relative;
+    top: 5px;
+    left: 90px; 
+    transition: .3s;
+}
+
+.a4-4 {
+    color: #000000;
+    font-size: 15px;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 110px;
+}
+
+ .a1:hover {
+    color: #1d7dff;
+    transition: 0.3s;
+}
+.a2:hover {
+    color: #1d7dff;
+    transition: 0.3s;
+}
+.a3:hover {
+    color: #1d7dff;
+    transition: 0.3s;
+}
+.a4:hover {
+    color: #1d7dff;
+    transition: 0.3s;
+}
+
+.div2{
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top: 100px;
+    left:250px ;
+}
+
+.h1{
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.p1 {
+    font-size: 18px;
+    color:#ffffff;
+}
+
+.fon2 {
+    width: 100%;
+    height: 100vh;
+    background: url(https://klike.net/uploads/posts/2019-11/1572779662_35.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 105px;
+    position: relative;
+}
+
+.blok-1{
+    width: calc(100% - 40px);
+    height: 290px;
+    margin: 0 auto 30px;
+    display: flex;
+}
+
+.aaa {
+    text-decoration: none;
+}
+
+.game-1 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+
+
+.p-game-1{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 8px;
+    left: 23px;
+    
+}
+
+.game-2 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width:250px;
+    position: relative;
+    margin-left: 15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-2{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 8px;
+    left: 23px;
+    
+}
+
+.game-3 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    margin-left: 15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-3{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 13px;
+    left: 23px;
+    
+}
+
+
+.game-4 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    margin-left: 15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-4{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-5 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    left: -4px;
+    margin-left: 13px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-5{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.blok-2 {
+    width: calc(100% - 40px);
+    height: 290px;
+    margin: 0px auto;
+    display: flex; 
+}
+
+
+.game-6 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width:250px;
+    position: relative;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-6{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-7 {
+    background: rgba(255, 255, 255, 0.4);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    margin-left: 15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-7{
+    color: #000000;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-8 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width:250px;
+    position: relative;
+    margin-left:15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-8{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-9 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width:250px;
+    position: relative;
+    margin-left: 15px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-9{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-10 {
+    background: rgba(0, 0, 0, 0.51);
+    height: 290px;
+    width: 250px;
+    position: relative;
+    left: -4px;
+    margin-left: 13px;
+    border-radius: 15%;
+    padding: 10px 0 0 20px;
+}
+
+.p-game-10{
+    color: #0076ff;
+    font-size: 20px;
+    position:relative;
+    top: 10px;
+    left: 23px;
+    
+}
+
+.game-img1{
+    border-radius: 50%;
+    width: 200px;
+    position: relative;
+    left: auto;
+} 
+
+.game-img2{
+    width: 200px;
+    position: relative;
+    border-radius: 50%;
+    left: auto;
+}
+
+/*Это настройки для 1 popup*/
+.popup_1 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_1:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_1 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_1 {
+    background: #ffffff;
+    width: 800px;
+    height: 300px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_1 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_1:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_1 {
+    color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_1 {
+    color:#000000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 22px;
+}
+
+.a_1 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game1-img-popup {
+    width: 250px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    border-radius: 20px;
+    left: auto;
+    margin-right: 20px;
+}
+
+
+
+/*Это настройки для 2 popup*/
+.popup_2 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_2:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_2 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_2 {
+    background: #ffffff;
+    width: 800px;
+    height: 300px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_2 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_2:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_2 {
+     color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_2 {
+    text-shadow: 3px 3px 10px #777777;
+    color:#000000;
+    font-size: 23px;
+}
+
+.a_2 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game2-img-popup {
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    left: auto;
+    margin-right: 20px;
+}
+
+
+
+/*Это настройки для 3 popup*/
+.popup_3 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_3:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_3 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_3 {
+    background: #ffffff;
+    width: 900px;
+    height: 420px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_3 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_3:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_3 {
+     color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_3 {
+    color:#000000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 22px;
+}
+
+.a_3 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game3-img-popup {
+    width: 250px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    border-radius: 20px;
+    left: auto;
+    margin : 0  20px 20px 0;
+}
+
+
+
+/*Это настройки для 4 popup*/
+.popup_4 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_4:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_4 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_4 {
+    background: #ffffff;
+    width: 850px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_4 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_4:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_4 {
+     color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_4 {
+    text-shadow: 3px 3px 10px #777777;
+    color:#000000;
+    font-size: 22px;
+}
+
+.a_4 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game4-img-popup {
+    width: 250px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #777777;
+    left: auto;
+    margin-right: 25px;
+}
+
+
+
+/*Это настройки для 5 popup*/
+.popup_5 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_5:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_5 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_5 {
+    background: #ffffff;
+    width: 850px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_5 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_5:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_5 {
+     color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_5 {
+    text-shadow: 3px 3px 10px #777777;
+    color:#000000;
+    font-size: 22px;
+}
+
+.a_5 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game5-img-popup {
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    left: auto;
+    margin: 0 20px 20px 0;
+}
+
+
+
+/*Это настройки для 6 popup*/
+.popup_6 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_6:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_6 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_6 {
+    background: #ffffff;
+    width: 800px;
+    height: 300px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_6 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_6:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_6 {
+    text-shadow: 3px 3px 10px #777777;
+     color:#1d7dff;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_6 {
+    color:#000000;
+   text-shadow: 3px 3px 10px #777777;
+    font-size: 23px;
+}
+
+.a_6 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game6-img-popup {
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    left: auto;
+    margin-right: 20px;
+}
+
+
+
+/*Это настройки для 7 popup*/
+.popup_7 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_7:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_7 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_7 {
+    background: #ffffff;
+    width: 860px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_7 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_7:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_7 {
+     color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_7 {
+    color:#000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 22px;
+}
+
+.a_7 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game7-img-popup {
+    width: 250px;
+    position: relative;
+    left: auto;
+    margin-right: 25px;
+}
+
+
+
+/*Это настройки для 8 popup*/
+.popup_8 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_8:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_8 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_8 {
+    background: #ffffff;
+    width: 850px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_8 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_8:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_8 {
+    color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_8 {
+    color:#000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 22px;
+}
+
+.a_8 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game8-img-popup {
+    box-shadow: 10px 10px 30px #777777;
+    width: 250px;
+    position: relative;
+    border-radius: 20px;
+    left: auto;
+    margin-right: 20px;
+}
+
+
+
+/*Это настройки для 9 popup*/
+.popup_9 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_9:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_9 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_9 {
+    background: #ffffff;
+    width: 8050px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_9 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_9:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_9 {
+    color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_9 {
+    color:#000000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 22px;
+}
+
+.a_9 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game9-img-popup {
+    width: 250px;
+    box-shadow: 10px 10px 30px #777777;
+    position: relative;
+    border-radius: 20px;
+    left: auto;
+    margin-right: 20px;
+}
+
+
+/*Это настройки для 10 popup*/
+.popup_10 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    
+}
+
+.popup_10:target{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup_body_10 {
+    min-height: 100%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 10px 30px;  
+}
+
+.popup-content_10 {
+    background: #ffffff;
+    width: 850px;
+    height: 350px;
+    border-radius: 50px;
+    max-width: 1000px;
+    padding: 3em;
+    position: relative;
+}
+
+.popup_close_10 {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    right: 25px;
+    top: 8px;
+}
+
+.popup_close_10:hover{
+    color: red;
+    position: absolute;
+    right: 23px;
+    top: 5px;
+    font-size: 25px;
+    transition: .3s;
+    transition-timing-function: linear;
+}
+
+.popup_title_10 {
+    color:#1d7dff;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.popup_text_10{
+    color:#000000;
+    text-shadow: 3px 3px 10px #777777;
+    font-size: 21px;
+}
+
+.a_10 {
+    cursor: default;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.game10-img-popup {
+    width: 300px;
+    position: relative;
+    border-radius: 20px;
+    left: auto;
+    margin-right: 20px;
+}/*Это оформление всех 10 popup*/
+
+.fon3{
+    background: #ffffff; /*Цвет фона */
+    width: 100%; /* Ширина блока */
+    height: 110vh; /*Высота блока*/
+}
+
+.div-fon3{
+    height: 650px;/* Ширина блока */
+    width: 1300px;/*Высота блока*/ 
+    padding-top: 50px;/* Внутрениий отступ сверху*/
+}
+
+.kartinka1 {
+    height: 600px; /*Высота изоброжения(если ты в оформлении картинки указываешь тодько одну величину то вторая подбирается автоматически по пропорциям)*/
+}
+
+.h1-fon3 {
+    color: black; /*Цвет шрифта*/
+    font-size: 60px; /*Размер шрифта*/
+    font-weight: 30; /*Толщина шрифта*/
+    padding-top: 2em; /* Внутрениий отступ сверху(em это эдиница измерения в которой высота шрифта */
+}
+
+.h2-fon3 {
+    color: orange; /*Цвет шрифта*/
+    font-size: 60px; /*Размер шрифта*/
+    font-weight: 30; /*Толщина шрифта*/
+    margin-bottom: 30px;/* Отступ снизу текста */
+}
+
+.p1-fon3 {
+    font-size: 20px; /*Размер шрифта*/ 
+}
+
+.a1_fon3 {
+    color:#000000; /*Цвет шрифта*/
+    text-decoration: none;/* Убирает нижнее подчеркивание*/
+    font-size: 20px; /*Размер шрифта*/
+    padding: 5px 30px; /*Отступ по вертикали и горизонтали*/
+    border-radius: 5px; /*Округление границ */
+    position: relative;
+    top: 9em; 
+    left: -20%;
+    border: 1.5px solid #000000;/* Граница текста (1.5px-это толщина границы, solid-это стиль границы, #000000-это цвет границф)*/
+    font-weight:30; /*Толщина шрифта*/
+}
+
+.a1_fon3:hover/* Это псевдо-класс который онимирует объекты при навидении на них*/{
+    border: none;/*Границы текста:нету;*/
+    background-color: orangered;/*Цвет фона:оранжевый;*/
+    color: aliceblue;/*Цвет(текста):белый;*/
+    transition-duration: .5s; /*Время перехода:0.5сек;*/
+    font-weight:30; /*Толщина шрифта*/
+}
+
+.fon4 {
+    width: 100%;/* Ширина блока */
+    height:80vh;/*Высота блока*/
+    background: #f7f7f7;/*Цвет фона*/
+    
+}
+
+.h1-fon4 {
+    text-align: center; /*Местоположение текста по середине*/
+    padding-top: 10px;/* Внутренний отступ*/
+    font-weight: 30;/*Толщина шрифта*/
+    
+}
+
+.blok-blok {
+    width: 100%;/* Ширина блока */
+    height: 85vh;/*Высота блока*/
+/*    background: rgb(217, 217, 217); Цвет фона*/
+    display: flex; /*Это чтобы <div> начинались не с новой строчки а на этой */
+    position: relative;/* Это чтобы можно было двигать объект не преминяя margin  или padding*/
+    top;25px;/* отступ с верху на 25px*/
+}
+
+
+/*Совет 1*/
+.blok1-fon4 {
+    margin-left: 120px;/*Отступ с лева*/
+/*    background: rgb(195, 195, 195);Цвет фона*/
+    height: 400px;/*Высота блока*/
+    width: 250px;/* Ширина блока */
+}
+
+.img1-fon4 {
+    height: 150px;/*Высота изоброжения(если ты в оформлении картинки указываешь тодько одну величину то вторая подбирается автоматически по пропорциям)*/
+    position: relative;/* Это чтобы можно было двигать объект не преминяя margin  или padding*/
+    left: calc(50% - 75px);/* Это чтобы картинку выровнять ровно по середине . когда мы просто пишем 50% именно левый край блока выравнивается по середине и calc в этом помогает . Т.к. я знаю ширину блока я написал что из 50% вычитаем 75 пикселей чтобф левая сторона была на половине левее*/
+    top: 0;
+}
+
+.p1-blok1-fon4 {
+    color: orangered;/*Цвет шрифта*/
+    padding-top: 25px;/*Внутренний отступ с верху*/
+    font-weight: 30;/*Толщина шрифта*/
+    font-size: 30px; /*Размер шрифта*/
+    text-align: center;/*Выравнивание текста по середине*/
+}
+
+.p2-blok1-fon4 {
+    color: #1f1f1f/*Цвет шрифта*/; 
+    text-align: center;/*Выравнивание текста по середине*/
+    padding-top: 12.5px;/*Внутренний отступ с верху*/
+}
+
+
+
+/*Совет 2*/
+.blok2-fon4 {
+    margin-left: 120px;/*Отступ с лева*/
+/*    background: rgb(195, 195, 195);Цвет фона*/
+    height: 400px;/*Высота блока*/
+    width: 275px;/* Ширина блока */
+}
+
+.img2-fon4 {
+    height: 150px;/*Высота изоброжения(если ты в оформлении картинки указываешь тодько одну величину то вторая подбирается автоматически по пропорциям)*/
+    position: relative;/* Это чтобы можно было двигать объект не преминяя margin  или padding*/
+    left: calc(50% - 75px);/* Это чтобы картинку выровнять ровно по середине . когда мы просто пишем 50% именно левый край блока выравнивается по середине и calc в этом помогает . Т.к. я знаю ширину блока я написал что из 50% вычитаем 75 пикселей чтобф левая сторона была на половине левее*/
+    top: 0;
+}
+
+.p1-blok2-fon4 {
+    color: orangered;/*Цвет шрифта*/
+    padding-top: 25px;/*Внутренний отступ с верху*/
+    font-weight: 30;/*Толщина шрифта*/
+    font-size: 30px; /*Размер шрифта*/
+    text-align: center;/*Выравнивание текста по середине*/
+    
+}
+
+.p2-bkok2-fon4 {
+    color: #1f1f1f/*Цвет шрифта*/; 
+    text-align: center;/*Выравнивание текста по середине*/
+    padding-top: 12.5px;/*Внутренний отступ с верху*/
+    
+}
+
+/*Совет 3*/
+.blok3-fon4 {
+    margin-left: 120px;/*Отступ с лева*/
+/*    background: rgb(195, 195, 195); Цвет фона*/
+    height: 400px;/*Высота блока*/
+    width: 325px;/* Ширина блока */
+}
+
+.img3-fon4 {
+    height: 150px;/*Высота изоброжения(если ты в оформлении картинки указываешь тодько одну величину то вторая подбирается автоматически по пропорциям)*/
+    position: relative;/* Это чтобы можно было двигать объект не преминяя margin  или padding*/
+    left: calc(50% - 75px);/* Это чтобы картинку выровнять ровно по середине . когда мы просто пишем 50% именно левый край блока выравнивается по середине и calc в этом помогает . Т.к. я знаю ширину блока я написал что из 50% вычитаем 75 пикселей чтобф левая сторона была на половине левее*/
+    top: 0;
+}
+
+.p1-blok3-fon4 {
+    color: orangered;/*Цвет шрифта*/
+    padding-top: 25px;/*Внутренний отступ с верху*/
+    font-weight: 30;/*Толщина шрифта*/
+    font-size: 30px; /*Размер шрифта*/
+    text-align: center;/*Выравнивание текста по середине*/
+    
+}
+
+.p2-bkok3-fon4 {
+    color: #1f1f1f/*Цвет шрифта*/; 
+    text-align: center;/*Выравнивание текста по середине*/
+    padding-top: 12.5px;/*Внутренний отступ с верху*/ 
+   background: linear-gradient(#f7f7f7 0% 83%, #fff500 83% 100%);
+    /*linear-gradient это плавный переход после него ставятся скобки для указания цветов которые будут переливаться(их можно указывать неограниченное количество)цвета пишите ччерез запятую.Если вам ненравится то что перелив идет с верху в низ то в начале скобок поставьте любое число а после числа поставьте deg
+    (45deg ,#f7f7f7 0% 90%, #fff500 90% 100%) 
+    Вы только что сделали то чтобы заставило перели развернуться на 45 градусов (в Css deg обозначение градусов)
+    проценты который я написал это гдн начинается 1 цвет и где он заканчивается если не указывать проценты  то перелив будет плавным*/
+}
+
+.fon5 {
+    background: linear-gradient(30deg,#fff 50%,black 50%);/* Цвет фона подвала страницы*/
+    width: 100%;/* Ширина подвала страницы*/
+    height: 50vh; /*АВысота подвала страници*/
+}
+
+.blok1-fon5 {
+    height: 100px;/*Высота блока*/
+    width: 430px;/*Ширина блока*/
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.p1-fon5 {
+    color:#575757;/*Цвет шрифта*/
+    font-size: 30px;/*Размер шрифта*/
+    font-weight: 50;/*Толщина шрифта*/
+    margin: 0;
+}
+
+.p2-fon5 {
+    color: #575757;/*Цвет шрифта*/
+}
+
+.p3-fon5 {
+    color: #575757;/*Цвет шрифта*/
+    font-size: 8px;
+    margin: 0;
+}
+.blok-flexf-fon5 {
+    height: 175px;/*Высота блока*/
+    width: 500px;/*Ширина блока*/
+    display: flex;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.blok2-fon5 {
+    height: 175px;/*Высота блока*/
+    width: 175px;  /*Ширина блока*/ 
+}
+
+.blok4-fon5 {
+    height: 175px;/*Высота блока*/
+    width: 125px;  /*Ширина блока*/ 
+}
+
+.blok3-fon5 {
+    height: 175px;/*Высота блока*/
+    width: 200px;;
+}
+
+.p1-blok2-fon5 {
+    color: #838181;/*Цвет шрифта*/
+    padding: 10px 20px 10px 0px; /*Внутренний отступ сверху-10пикселей,справа-20пикселей, снизу-10пикселей, слева-0пикселей */
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Это оформление 2 страницы*/
+.fon7 {
+    background: url(../img/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0.jpeg) no-repeat center center ;/* Цвет фона*/
+    background-size: cover;
+    width: 100%;/*Ширина блока 100% экрана*/
+    height: 100vh;/*Высота блока 100% экрана*/
+}
+
+.h1-fon7 {
+    color: #ff9300;/*Цвет шрифта*/
+    font-weight: 50; /*Ширина букв(жирность)*/
+   font-size: 45px;/*Размер шрифта*/
+
+    
+}
+
+.p1-fon7{
+    color: #ffffff;/*Цвет шрифта*/
+    font-size: 18px;/*Размер шрифта*/
+}
+
+.div1-fon7{
+    height: 200px;/*Высота блока*/
+    width: 900px;/*Ширина блока*/
+    position: relative; /* Это чтобы можно было двигать объект не преминяя margin  или padding*/
+    top: 200px;/* ототвинуть с верху экрана на 180пикселей*/
+    left:250px ;/* ототвинуть с лева экрана на 250пикселей*/
+}
+
+.fon8 {
+    background: #ffffff;/* Цвет фона*/
+    width: 100%;/*Ширина блока*/
+    height: 200vh;/*Высота блока*/
+}
+
+.div1-fon8 {
+    background: rgba(255, 108, 0, 0.56);/* Цвет фона*/
+    width: calc(100% - 200px);/* с помощью Calc я из 100% ширины вычел 200пикселей и отступы по бокам блока сделал 100пикселей теи самым выровняв эго по середине*/
+    height: 1250px;/*Высота блока*/
+    margin: 100px 0 0 100px;/* Внешние отступы с верху и с лева*/
+    border-radius: 50px;/* округление всех граев блока на 20пикселей*/
+    box-shadow: -30px 50px 130px #4d4d4d /*;Тень блока 1 значение эхто смешение по ширине с положительным значениеем 1 числа тень с права с отрицательным значением цень с лева, 2 число это смещение по высоте с положительным значением оно смещает в низ, а с отрицательным хначением смещает в верх, 3 число это размытие тени*/
+}
+
+/*1 ПРиложение*/
+.stroka1 {
+    background:linear-gradient(45deg, #1488cc, #2b32b2)/* Цвет фона*/;
+    height: 250px;/*Высота блока*/
+    width: 100%;/*Ширина блока*/
+   border-radius: 50px 50px 0 0;/* Округление верхних краев элемента на 50пикселей*/
+}
+
+.img1-fon8 {
+    height: 200px;/*Высота  картинки*/
+    margin-top: 25px;/* Отступ с верху*/
+}
+
+
+.p1-fon8 {
+   padding: 4em 2em 1em 10em ;/* Отступ с врху,справа,снизу,слева ,а em это размер шрифта букв*/
+    margin: 0 0 0 100px/*; Внешний отступ с лева на 100пикселей*/
+}
+
+/*2 приложение*/
+.stroka2 {
+    background: #ffffff ;/*Цвет фона*/
+    height: 250px; 
+    width: 100%;/* Ширина блока 100% экрана*/
+}
+
+.img2-fon8 {
+    height: 200px;/* Высота картинки*/
+    margin-top: 25px;/* Внешний отступ с верху*/
+}
+
+.p2-fon8 {
+   padding: 6em 2em 1em 28em ;/* Отступ с врху,справа,снизу,слева ,а em это размер шрифта букв*/
+}
+
+.p3-fon8 {
+   padding: 2em 2em 1em 28em ;/* Отступ с врху,справа,снизу,слева ,а em это размер шрифта букв*/
+}
+.a1-sroka2 {
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow:2px 5px 0 #aaaaaa;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1.5px solid #000000;
+    position: relative;
+    left: 40px;
+}
+
+.a1-sroka2:hover {
+    background: rgba(0, 0, 0, 0.16);
+    transition: 0.3s ease
+}
+
+.a1-sroka2:active {
+    box-shadow: none;
+    transition: 0.5s ease;
+}
+
+
+
+/*3 предложение*/
+.stroka3 {
+    background: #cfcfff ;
+    height: 250px; /*Цвет фона*/
+    width: 100%;/* Ширина блока 100% экрана*/
+}
+
+.img3-fon8 {
+    height: 200px;/* Высота картинки*/
+    margin-top: 25px;/* Внешний отступ с верху*/
+}
+.p1-fon8 {
+   padding: 2em 2em 1em 10em ;/* Отступ с врху,справа,снизу,слева ,а em это размер шрифта букв*/
+    margin: 0 0 0 100px/*; Внешний отступ с лева на 100пикселей*/
+}
+
+.a1-sroka3 {
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow:2px 5px 0 #7777c7;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1.5px solid #000000;
+}
+
+.a1-sroka3:hover {
+    background: rgba(0, 0, 0, 0.16);
+    transition: 0.3s ease
+}
+
+.a1-sroka3:active {
+    box-shadow: none;
+    transition: 0.5s ease;
+}
+
+/*4 предложение*/
+.stroka4 {
+    background: #ffffff ;
+    height: 250px; /*Цвет фона*/
+    width: 100%;/* Ширина блока 100% экрана*/
+}
+
+.img4-fon8 {
+    height: 250px;/* Высота картинки*/
+    margin-left: 50px;/* Внешний отступ с лева*/
+}
+.a1-sroka4 {
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow:2px 5px 0 #a7a7a7;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1.5px solid #000000;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.a1-sroka4:hover {
+    background: rgba(0, 0, 0, 0.16);
+    transition: 0.3s ease
+}
+
+.a1-sroka4:active {
+    box-shadow: none;
+    transition: 0.5s ease;
+}
+
+
+/*5 предложение*/
+.stroka5 {
+    background: #d3bca2 ;
+    height: 250px; /*Цвет фона*/
+    width: 100%;/* Ширина блока 100% экрана*/
+    border-radius: 0 0 50px 50px ;
+}
+
+.a1-sroka5 {
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    box-shadow:2px 5px 0 #714a24;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 1.5px solid #000000;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.a1-sroka5:hover {
+    background: rgba(0, 0, 0, 0.16);
+    transition: 0.3s ease
+}
+
+.a1-sroka5:active {
+    box-shadow: none;
+    transition: 0.5s ease;
+}
+
+.img5-fon8 {
+    height: 200px;/* Высота картинки*/
+    margin-top: 25px;/* Внешний отступ с верху*/
+    margin-left: 30px;/* Внешний отступ с лева*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Оформлеие 3страници*/
+
+.fon9 {
+    width: 100%;
+    height: 110vh;
+    background: url(../img/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0.jpeg) no-repeat center center;
+    background-size: cover;
+    
+}
+
+
+
+.blok1-fon9 {
+    background: rgba(0, 0, 0, 0.42);/*цвет фона цуток затемненный*/
+    height: 200px;/*ВЫсота блока*/
+   width: 900px;/*Ширина блока*/
+    position: relative;
+    top: 100px;
+    left :225px;
+}
+
+.h1-fon9 {
+   color: #ffffff;/*Цвет фона*/
+    text-align: center;/*Расположенте центра по середине*/
+}
+
+.p1-fon9 {
+    color: #ffffff;/*Цвет фона*/
+    padding: 20px 30px;/*Внутренний отступ свурху снизу и слева права*/
+}
+
+
+
+
+
+.fon10 {
+    background: #ffffff;
+    width: 100%;/*Ширина блока*/
+}
+
+
+
+.blok0-fon10 {
+    width:100%;/*Ширина блока*/
+}
+
+.fon10-head {
+    width: calc(100% - 68px);
+    padding: 15px 0;
+    background: rgba(0, 0, 0, 0.5);
+    border-bottom: 2px solid #000000;
+}
+
+.h1-vipod {
+    color: #ffffff;
+    padding-top: 1px;
+    font-weight: 50;/*Ширина шрифта*/
+    text-align: center;/* Расположение текста по середине */
+}
+
+.a1-vipod {
+    text-decoration: none;/*Убрали декарацию ссылок ,убрали нижнее подчерквание*/
+    color: #000000;/*;цвет фона ссылки*/
+} 
+
+.p-fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.blok1-fon10 {
+    background: linear-gradient(rgba(255, 255, 255, 0) 120px,rgba(0, 0, 0, 0.5) 120px);/*Цвет фона*/
+    height: 750px;
+    width: calc(100% - 68px);
+    padding-top: 120px;
+    display: none;
+    position: relative;
+    top:-120px;
+    
+}
+
+.blok1-fon10:target {
+    display: block;
+}
+
+.video1-fon10 {
+    height: 250px;
+    margin-top:35px;
+}
+
+.video2-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 20px;
+}
+ 
+.video3-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 20px;
+}
+
+.video4-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 20px;
+}
+
+.video5-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 20px;
+}
+
+
+.ava1-fon10 {
+    height: 250px;
+    margin-top:35px;
+    border-radius: 50%;
+}
+
+.h1-video1 {
+    padding-left: calc(50% - 225px);
+    font-weight: 50;
+    font-size: 25px;
+    color:#ffffff;
+    padding-top: 10px;
+}
+
+.p1-video1 {
+    padding-left: calc(50% - 100px);
+    font-weight: 50;
+    color: #ff1515;
+    padding-top: 20px;
+}
+
+.a1-close {
+    background: linear-gradient(to right,#0099F7 0% 20%,#F11712 40% 60%,#0099F7 80% 100% );/*Цвет фона*/
+    background-size: 200%;
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    width: 100px;
+    font-size: 25px;
+    border: 1.5px solid #646464;
+    border-radius: 20px;
+    padding: 10px 40px;
+    position: relative;
+    left: calc(50% - 100px);
+    box-shadow: 3px 5px #ea34c0;
+    top: 30px;
+    
+    transition: 0.5s ease ;
+}
+
+.a1-close:hover {
+    background-position: right; 
+    box-shadow: -3px 5px #671a9f; 
+}
+.a1-close:active {
+    box-shadow:none;
+}
+
+.close1 {
+    position: relative;
+    top: 3px; 
+    left: 8px;
+}
+
+
+.fon10-head2 {
+    background: rgba(0, 0, 0, 0.5);
+    height: 120px;
+}
+
+
+
+/*Это оформление 2 кнопки*/
+.fon10-head_2 {
+    padding: 15px 0;
+    width: calc(100% - 68px);
+    background: rgba(0, 0, 0, 0.5);
+    border-bottom: 2px solid #000000;
+    padding-top: 10px;
+}
+
+.h1_2-vipod {
+    color: #ffffff;
+    font-weight: 50;/*Ширина шрифта*/
+    text-align: center;/* Расположение текста по середине */
+}
+
+
+
+.a1_2-vipod {
+    background: linear-gradient(to right ,#FC5C7D 0% 20%, #6A82FB 40% 60%, #FC5C7D 80% 100% );/*Цвет фона ссылки*/
+    background-size: 200%;/* Размер фона ссылки*/
+    text-decoration: none;/*Убрали декарацию ссылок ,убрали нижнее подчерквание*/
+    width: 115px;/*ширина ссылки*/
+    color: #000000;/*;цвет фона ссылки*/
+    font-size: 25px;/*Размер шрифта сылки*/
+    box-shadow: 3px 5px #673cac;
+    display: flex;/*Расположние блочных элменто в стоку*/
+    border: 1.5px solid #646464;/* стлизация граници элемента*/
+    border-radius: 20px;/*Окруление краев ссылки*/
+    padding: 10px 40px;/*Внутренний отступ ссылки*/
+    position: relative;
+    left: calc(50% - 80px);
+    top: 10px;
+
+    
+    transition: 0.5s ease ;
+}
+
+
+
+.a1_2-vipod:hover {
+    background-position: right;
+    box-shadow: -3px 5px #673cac;
+}
+
+.a1_2-vipod:active {
+    box-shadow:none;
+} 
+
+.up_2 {
+    transform: rotate(-180deg);
+    font-size: 30px; 
+    position: relative;
+    bottom: 5px;
+    left: 10px;
+} 
+
+
+.blok1_2-fon10 {
+    background: linear-gradient(rgba(255, 255, 255, 0) 120px,rgba(0, 0, 0, 0.5) 120px);/*Цвет фона*/
+    height: 1050px;
+    width:100%;
+    padding-top: 120px;
+    display: none;
+    position: relative;
+    top:-120px;
+    
+}
+
+.blok1_2-fon10:target {
+    display: block;
+}
+
+.video1_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+}
+
+.video2_2-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 45px;
+}
+
+
+.video3_2-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 45px;
+}
+
+.video4_2-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 47px;
+}
+
+.video5_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+}
+
+.video6_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+    margin-left: 43px;
+}
+
+.video7_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+    margin-left: 43px;
+}
+
+.video8_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+    margin-left: 43px;
+}
+
+.video9_2-fon10 {
+    height: 250px;
+    margin-top:35px;
+}
+
+.ava_2-fon10 {
+    height: 250px;
+    margin-left:150px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+.h1-video1_2 {
+    padding-left: calc(50% - 80px);
+    font-weight: 50;
+    font-size: 25px;
+    color:#ffffff;
+}
+
+.p1_2-video1 {
+    padding-left: calc(50% - 100px);
+    font-weight: 50;
+    color: #ff1515;
+    padding-top: 20px;
+}
+
+.a1_2-close {
+    background: linear-gradient(to right,#0099F7 0% 20%,#F11712 40% 60%,#0099F7 80% 100% );/*Цвет фона*/
+    background-size: 200%;
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    width: 100px;
+    font-size: 25px;
+    border: 1.5px solid #646464;
+    border-radius: 20px;
+    padding: 10px 40px;
+    position: relative;
+    left: calc(50% - 100px);
+    box-shadow: 3px 5px #ea34c0;
+    top: 30px;
+    
+    transition: 0.5s ease ;
+}
+
+.a1_2-close:hover {
+    background-position: right; 
+    box-shadow: -3px 5px #671a9f; 
+}
+.a1_2-close:active {
+    box-shadow:none;
+}
+
+.close1_2 {
+    position: relative;
+    top: 3px; 
+    left: 8px;
+}
+
+
+.body1 {
+    background: #000000;
+    position: static;
+    z-index: -2;
+    margin: 0;
+    padding: 0;
+}
+
+/*Это оформление 2 кнопки*/
+.fon10-head_3 {
+    padding: 15px 0;
+    width: calc(100% - 68px);
+    background: rgba(0, 0, 0, 0.5);
+    border-bottom: 2px solid #000000;
+}
+
+.h1_3-vipod {
+    color: #ffffff;
+    font-weight: 50;/*Ширина шрифта*/
+    text-align: center;/* Расположение текста по середине */
+}
+
+
+
+.a1_3-vipod {
+    background: linear-gradient(to right ,#FC5C7D 0% 20%, #6A82FB 40% 60%, #FC5C7D 80% 100% );/*Цвет фона ссылки*/
+    background-size: 200%;/* Размер фона ссылки*/
+    text-decoration: none;/*Убрали декарацию ссылок ,убрали нижнее подчерквание*/
+    width: 115px;/*ширина ссылки*/
+    color: #000000;/*;цвет фона ссылки*/
+    font-size: 25px;/*Размер шрифта сылки*/
+    box-shadow: 3px 5px #673cac;
+    display: flex;/*Расположние блочных элменто в стоку*/
+    border: 1.5px solid #646464;/* стлизация граници элемента*/
+    border-radius: 20px;/*Окруление краев ссылки*/
+    padding: 10px 40px;/*Внутренний отступ ссылки*/
+    position: relative;
+    left: calc(50% - 80px);
+    top: 10px;
+
+    
+    transition: 0.5s ease ;
+}
+
+
+
+.a1_3-vipod:hover {
+    background-position: right;
+    box-shadow: -3px 5px #673cac;
+}
+
+.a1_3-vipod:active {
+    box-shadow:none;
+} 
+
+.up_3 {
+    transform: rotate(-180deg);
+    font-size: 30px; 
+    position: relative;
+    bottom: 5px;
+    left: 10px;
+} 
+
+
+.blok1_3-fon10 {
+    background: linear-gradient(rgba(255, 255, 255, 0) 120px,rgba(0, 0, 0, 0.5) 120px);/*Цвет фона*/
+    height: 1050px;
+    width:100%;
+    padding-top: 120px;
+    display: none;
+    position: relative;
+    top:-120px;
+    
+}
+
+.blok1_3-fon10:target {
+    display: block;
+}
+
+.video1_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+}
+
+.video2_3-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 32px;
+}
+
+
+.video3_3-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 32px;
+}
+
+.video4_3-fon10{
+    height: 250px;
+    margin-top:35px;
+    margin-left: 32px;
+}
+
+.video5_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+    margin-left: calc(50% - 110px);
+}
+
+.ava1_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+    border-radius: 50%;
+}
+
+.ava2_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.ava3_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.ava4_3-fon10 {
+    height: 250px;
+    margin-top:35px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.div-ava1_3-fon10 {
+    height: 100px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+.p1-ava1_3-fon10 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: ;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+
+.p2-ava1_3-fon10 {
+    color: #ff1515;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.div-ava2_3-fon10 {
+    height: 100px;
+    width: 200px;
+    margin-left: 75px;
+}
+
+.p1-ava2_3-fon10 {
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;  
+}
+
+.p2-ava2_3-fon10 {
+    color: #ff1515;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.div-ava3_3-fon10 {
+    height: 100px;
+    width: 200px;
+    margin-left: 62px;
+}
+
+.p1-ava3_3-fon10 {
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;  
+}
+
+.p2-ava3_3-fon10 {
+    color: #ff1515;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.div-ava4_3-fon10 {
+    height: 100px;
+    width: 200px;
+    margin-left: 62px;
+}
+
+.p1-ava4_3-fon10 {
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;  
+}
+
+.p2-ava4_3-fon10 {
+    color: #ff1515;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+
+.a1_3-close {
+    background: linear-gradient(to right,#0099F7 0% 20%,#F11712 40% 60%,#0099F7 80% 100% );/*Цвет фона*/
+    background-size: 200%;
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    width: 100px;
+    font-size: 25px;
+    border: 1.5px solid #646464;
+    border-radius: 20px;
+    padding: 10px 40px;
+    position: relative;
+    left: calc(50% - 100px);
+    box-shadow: 3px 5px #ea34c0;
+    top: 30px;
+    
+    transition: 0.5s ease ;
+}
+
+.a1_3-close:hover {
+    background-position: right; 
+    box-shadow: -3px 5px #671a9f; 
+}
+.a1_3-close:active {
+    box-shadow:none;
+}
+
+.close1_3 {
+    position: relative;
+    top: 3px; 
+    left: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Это оформление 4 страници*/
+.fon11 {
+    background: url(https://image.freepik.com/free-photo/digital-money-bitcoin-on-black-background_36650-7.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.div2-fon11{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.h1-fon11{
+    font-size: 50px;
+    color: #f45e00;
+    font-weight: 300;
+}
+
+.p1-fon11{
+    font-size: 18px;
+    color: #f45e00;
+    font-weight: 300;
+}
+
+.fon12 {
+    height: 110vh;
+    width: 100%;
+    background:  #ffffff;
+    display: flex;
+}
+
+/*#f45e00*/
+
+.slider-content {
+    background: #ffffff;
+    width: 700px;
+    height:200px;
+    max-width: 700px;
+    position: relative;
+    line-height: 1;
+    margin-left: calc(50% - 350px);
+    margin-top: 275px;
+}
+
+
+.img20 {
+    transform: rotate(90deg);
+    height: 50px;
+    position: relative;
+    top: calc(50% - 25px);
+    left; 0px;
+}
+
+.t1 {
+    font-family: cursive;
+    position: absolute;
+    top: 120px;
+    left: 1360px;
+    font-size: 50px;
+    color: #f45e00;
+    letter-spacing: 10px;
+}
+
+.t2 {
+    font-family: cursive;
+    position: absolute;
+    top: 550px;
+    left: 1360px;
+    font-size: 50px;
+    color: #f45e00;
+    letter-spacing: 10px;
+}
+
+
+.pubg {
+    margin-left: 117px;
+    color: rgba(0, 0, 0, 0);
+    font-size: 100px;
+    width: 465px;
+    background-image: linear-gradient(90deg, #f45e00 46% ,#000000 46%);
+    -webkit-background-clip: text;
+}
+
+.pubg-1 {
+    font-family: cursive;
+    color:#000000;
+    margin:0 0 0 35px;
+    font-size: 25px;
+}
+
+.pubg-2 {
+    color: #000000;
+    margin-left: 285px;
+    width: 130px;
+}
+
+.pubg-3 {
+    font-family: cursive;
+    color: #000000;
+    margin-top: 0;
+    margin-left: 152.5px;
+    font-size: 25px;
+    width: 395px;
+}
+
+div .slider-item img {
+    height: 300px;
+    width: 900px;
+    padding: 0 75px;
+}
+
+.slider-item{
+    height: 100vh;
+    width: 100%;
+}
+
+/* Слайдер */
+.slick-slider{}
+
+/* Слайдер запущен */
+.slick-slider.slick-initialized{}
+
+
+/* Слайдер с точками */
+.slick-slider.slick-dotted{}
+
+
+/* Ограничивающая оболочка */
+.slick-list {
+    overflow: hidden;
+}
+
+/* Лента слайдов */
+.slick-track{
+    display: flex;
+}
+
+/* Слайд */
+.slick-slide{}
+
+/* Слайд активный (показывается) */
+.slick-slide.slick-active{}
+
+/* Слайд основной */
+.slick-slide.slick-current{}
+
+/* Слайд по центру */
+.slick-slide.slick-center{}
+
+/* Клонированный слайд */
+.slick-slide.slick-cloned{}
+
+/* Стрелка */
+.slick-arrow{}
+
+/* Стрелка влево */
+.slick-arrow.slick-prev{
+    left: 0;
+    font-size: 0;
+    background: url(../img/%D0%92%D0%BD%D0%B8%D0%B7.png) 0 0 / 100% no-repeat;
+    width: 30px;
+    height: 30px;
+    transform: rotate(90deg);
+    border: none;
+    background-color: rgba(255, 255, 255, 0.28);
+}
+
+.slick-arrow.slick-prev:hover {
+    width: 33px;
+    height: 33px;
+    transition: all .3s ease;
+}
+
+.slick-arrow.slick-prev:active {
+    width: 28px;
+    height: 28px;
+    transition: all .3s ease;
+}
+
+/* Стрелка вправо */
+.slick-arrow.slick-next{
+    right: 0;
+    font-size: 0;    
+    background: url(../img/%D0%92%D0%BD%D0%B8%D0%B7.png) 0 0 / 100% no-repeat;
+    width: 30px;
+    height: 30px;
+    transform: rotate(-90deg);
+    border: none;
+    background-color: rgba(255, 255, 255, 0.28);
+}
+
+.slick-arrow.slick-next:hover {
+    width: 33px;
+    height: 33px;
+    transition: all .3s ease;
+}
+
+.slick-arrow.slick-next:active {
+    width: 28px;
+    height: 28px;
+    transition: all .3s ease;
+}
+
+/* Стрелка не активная */
+.slick-arrow.slick-disabled{}
+
+/* Точки (булиты) */
+.slider .slick-dots{
+    display: flex;
+    position: absolute;
+    left: 45%;
+    top: 665px;
+    z-index: 3;
+}
+
+.slider .slick-dots li{
+    list-style: none;
+}
+
+/* Активная точка */
+.slider .slick-dots li.slick-active button{
+    border: none;
+/*
+    
+*/
+    background: #3563fc;
+    transition: all .3s ease;
+}
+
+.slider .slick-dots li button:hover {
+    height: 12px;
+    width: 12px;
+}
+
+/* Элемент точки */
+.slider .slick-dots li button{
+    background: rgba(255, 167, 0, 0);
+    font-size: 0;
+    margin: 0 15px 0 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: solid 1px #9f9f9f;
+}
+
+.slider{
+    position: relative;
+    width: 100%;
+}
+
+.slider .slick-arrow {
+    position: absolute;
+    top:50%;
+    z-index: 10;
+}
+
+.fon-slidera2 {
+    width: 100%;    
+    height: 110vh;
+    background: #000000;
+    
+}
+
+.slider-content2 {
+    background: #000000;
+    width: 700px;
+    height:200px;
+    max-width: 700px;
+    position: relative;
+    line-height: 1;
+    margin-left: 350px;;
+    margin-top: 275px;
+}
+
+.t3 {
+    font-family: cursive;
+    position: absolute;
+    top: 120px;
+    left: 2700px;
+    font-size: 50px;
+    color: #f45e00;
+    letter-spacing: 10px;
+}
+
+.t4 {
+    font-family: cursive;
+    position: absolute;
+    top: 550px;
+    left: 2700px;
+    font-size: 50px;
+    color: #f45e00;
+    letter-spacing: 10px;
+}
+
+.CsGo {
+    margin-left: 117px;
+    color: #f45e00;
+    font-size: 100px;
+    width: 465px;
+}
+
+.CsGo-1 {
+    font-family: cursive;
+    color:#ffffff;
+    margin:0 0 0 45px;
+    font-size: 25px;
+}
+
+.CsGo-2 {
+    color: aliceblue;
+    margin-left: 285px;
+    width: 130px;
+}
+
+.fon-slidera3 {
+    width: 100%;    
+    height: 110vh;
+    background: #f45e00;
+    
+}
+
+.slider-content3 {
+    background:  #f45e00;
+    width: 800px;
+    height:200px;
+    max-width:600px;
+    position: relative;
+    line-height: 1;
+    margin-left:200px;;
+    margin-top: 275px;
+}
+
+.t5 {
+    font-family: cursive;
+    position: absolute;
+    top: -145px;
+    left: -200px;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 10px;
+    z-index: 4;
+}
+
+.t6 {
+    font-family: cursive;
+    position: absolute;
+    top: 285px;
+    left: -200px;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 10px;
+}
+
+.GtaV {
+    margin-left: 117px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 100px;
+    width: 465px;
+    background-image: linear-gradient(90deg, #000000 27% ,#000000 27%);
+    -webkit-background-clip: text;
+}
+
+.GtaV-1 {
+    font-family: cursive;
+    color:#ffffff;
+    margin:0 0 0 30px;
+    font-size: 25px;
+}
+
+.GtaV-2 {
+    color: #ffffff;
+    margin-left: 285px;
+    width: 130px;
+}
+
+.GtaV-3 {
+    font-family: cursive;
+    color: #ffffff;
+    margin-top: 0;
+    margin-left: 90px;
+    font-size: 25px;
+    width: 500px;
+}
+
+
+
+.fon-slidera4 {
+    width: 100%;    
+    height: 110vh;
+    background: #fafafa;
+    
+}
+
+.slider-content4 {
+    background:  #fafafa;
+    width: 880px;
+    height: 200px;
+    max-width: 880px;
+    position: relative;
+    line-height: 1;
+    margin-left:300px;;
+    margin-top: 200px;
+}
+
+.t7 {
+    font-family: cursive;
+    position: relative;
+    top: 119.5px;
+    left: 0px;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 10px;
+    z-index: 4;
+}
+
+.t8 {
+    font-family: cursive;
+    position: relative;
+    top: 75px;
+    left: 0px;
+    font-size: 50px;
+    color: #000000;
+    letter-spacing: 10px;
+}
+
+.clash {
+    margin-left: 117px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 100px;
+    width: 520px;
+    background-image: linear-gradient(90deg, #000000 50% ,#f45e00 50%);
+    -webkit-background-clip: text;
+}
+
+.clash-1 {
+    font-family: cursive;
+    color:#f45e00;
+    margin:0 0 0 30px;
+    font-size: 25px;
+}
+
+.clash-2 {
+    color:#f45e00;
+    margin-left: 285px;
+    width: 150px;
+}
+
+.clash-3 {
+    font-family: cursive;
+    color: #f45e00;
+    margin-top: 0;
+    margin-left: 140px;
+    font-size: 25px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
